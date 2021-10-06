@@ -1,4 +1,4 @@
-console.log("hello");
-import refs from './refs'
+
+import refs from './refs.js'
 const {start, stop} = refs;
 console.log(start);

@@ -1,1 +1,1 @@
-import './js/colorChange'
+import './js/colorChange.js'
